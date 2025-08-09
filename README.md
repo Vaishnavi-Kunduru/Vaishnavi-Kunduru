@@ -2,7 +2,7 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Java, Python, TypeScript, JavaScript,  
+**Languages:** Java, Python, TypeScript, JavaScript
 **Technologies/Frameworks:** Spring Boot,React.JS, REST APIs, Spring Framework, Microservices, RESTful Web Services, CloudWatch,
 Docker, Kubernetes, GraphQL, Robot Framework
 **Tools:** Git, AWS, Docker, CI/CD Pipelines  
